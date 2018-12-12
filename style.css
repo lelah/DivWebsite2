@@ -1,7 +1,10 @@
 
 .headertop {
-   height: 20px;
-       background-color: darkmagenta
+   height: 80px;
+       background-color: darkmagenta;
+       font-family: 'Gamja Flower', cursive;
+    text-align: center;
+    font-size: 170%;
     
 }
 
@@ -22,6 +25,7 @@
     float: left;
     width: 60%;
     background-color: orangered;
+    font-family: 'Oswald', sans-serif;
 }
 
 .columnright {
@@ -41,4 +45,8 @@
     width: 80%;
     margin-left: auto;
     margin-right: auto;
+}
+
+body {
+    background-image: url(diagonal-squares.png)
 }
